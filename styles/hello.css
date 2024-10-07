@@ -14,3 +14,13 @@ footer{
 .sky{
     text-decoration: none;
 }
+.kfp{
+    font-weight: bold;
+}
+
+div > ul>li{
+    text-decoration: underline;
+    list-style: none;
+    margin-right: 50px;
+    color: blueviolet;
+}
